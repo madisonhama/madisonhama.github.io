@@ -1,12 +1,12 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Madison Hama",
     "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "picture": "https://madisonhama.github.io/images/Maddie headshot 2.png",
+    "email": "mkah@hawaii.edu",
+    "phone": "310-560-1130",
+    "website": "https://madisonhama.github.io",
+    "summary": "Hello! I am studying for a B.B.A. in Management Information Systems in the Shidler College of Business at the University of Hawaii. I expect to graduate in Summer, 2022.",
     "location": {
       "address": "",
       "postalCode": "96822",
@@ -17,13 +17,13 @@
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "madisonhama",
+        "url": "http://github.com/madisonhama"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
+        "username": "madisonhama",
+        "url": "http://linkedin.com/in/madisonhama"
       },
       {
         "network": "twitter",
@@ -39,19 +39,18 @@
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "hiking",
       "keywords": [
-        "Arduino",
-        "TI MSP430"
+       
       ]
     },
     {
-      "name": "data mining",
+      "name": "playing guitar",
       "keywords": [
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "camping",
       "keywords": [
       ]
     }
